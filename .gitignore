@@ -1,0 +1,6 @@
+/__pycache__
+/allen_env
+/cache
+/endpoints/__pycache__
+/logs
+test.py
